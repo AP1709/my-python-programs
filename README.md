@@ -1,0 +1,1 @@
+I created this repositry while i was learning basic python programming
